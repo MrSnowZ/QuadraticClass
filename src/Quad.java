@@ -38,7 +38,7 @@ public class Quad {
 
         public String toString()
     {
-        return a + "test";
+        return a + "toString that doesn't print anything useful";
     }
     public void zeroes()
     {
@@ -75,5 +75,5 @@ public class Quad {
 
         
     
-    }    //x = (-b ± √(b2-4ac)) / (2a) -> quadratic equation from algebra 1
+    }   
 }

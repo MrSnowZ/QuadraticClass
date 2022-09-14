@@ -10,6 +10,6 @@ public class quadraticTester {
         q1.zeroes();
         q2.zeroes();
         q3.zeroes();
-        //System.out.println(q1);
+        System.out.println(q1);
     }
 }
